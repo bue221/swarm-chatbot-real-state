@@ -1,12 +1,12 @@
 # Proyecto de Swarm de Agentes
 
 ---
-## IMPORTANT LINKS
+## Links importantes
 [VIDEO REFERENCIA](https://www.youtube.com/watch?v=t1CblKIJvaI)
 
 [CODE SANDBOX COLAB](https://colab.research.google.com/drive/1tOnU-nwp2vjdY166NdD8ID_y6YJFDkO9?usp=sharing)
 
-[SWARM DOCUMENTATION](https://github.com/openai/swarm/tree/main?tab=readme-ov-file#documentation)
+[SWARM DOCUMENTACION](https://github.com/openai/swarm/tree/main?tab=readme-ov-file#documentation)
 
 ---
 
