@@ -4,13 +4,13 @@ def switch_to_availability_agent():
     return availability_agent
 
 
-def switch_to_cancellation_agent():
-    from config.agents.types import cancellation_agent
+def switch_to_doubt_resolver_agent():
+    from config.agents.types import doubt_resolved_agent
 
-    return cancellation_agent
+    return doubt_resolved_agent
 
 
-def switch_to_reviews_agent():
-    from config.agents.types import reviews_agent
+def switch_to_profiling_agent():
+    from config.agents.types import profiling_agent
 
-    return reviews_agent
+    return profiling_agent

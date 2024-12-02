@@ -28,3 +28,7 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+
+# Ignorar archivos de pruebas
+.db
+.sqlite
